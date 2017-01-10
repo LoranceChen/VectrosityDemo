@@ -1,0 +1,32 @@
+#Mac
+.DS_Store
+
+#Unity Project
+Library
+Temp
+obj
+*.userprefs
+
+#visual studio
+*.sln
+*.csproj
+.vs
+
+#log
+*.log
+*.log.meta
+
+#output(recommand)
+*.apk
+*.exe
+output/
+
+#vi
+*.swp
+
+#special anti-ignore
+# pdf hung up git service
+#*.pdf
+
+#tmp
+#.gitignore
